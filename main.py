@@ -40,7 +40,7 @@ otherDictionary = {'CS101A': ("Zaman", "Nait-Abdesselam"),
                        'CS394': ("Nait-Abdesselam", "Zein el Din"),
                        'CS449': ("Zein el Din", "Uddin"),
                        'CS451': ("Zein el Din", "Uddin", "Nait-Abdesselam", "Hare")}
-
+#Chance of Mutation
 MUTATION = 0.01
 
 # This function is to create a tuple for each class assignment in a solution
